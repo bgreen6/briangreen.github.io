@@ -75,6 +75,10 @@ footer {
   margin: 0 0 40px 0;
 }
 
+footer p{
+  text-align: center;
+}
+
 #downloads .btn {
   display: inline-block;
   text-align: center;
